@@ -1,1 +1,0 @@
-Błąd could not convert string to float: 'w'
